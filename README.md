@@ -13,5 +13,7 @@ Editables:
 	"thershold" - minimo numero de cuentas que va a ser aceptadas para que se tome ese PMT en cuenta
 	"good_number_to_run" - numero minimo de PMTs que se utilizaran para que arranque el algoritmo.
 	
-	
+How to compile:
+-Necesitas tener Root Cern intalado junto a sus dependencias
+-$ root sim_analysis.C 	
 
