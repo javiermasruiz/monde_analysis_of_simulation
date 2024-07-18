@@ -1,4 +1,5 @@
 Programa: sim_analysis.C y sim_analysis.h
+
 Autor: Javier Mas Ruiz
 
 Programas para analizar los datos simulados del detector
@@ -14,6 +15,6 @@ Editables:
 	"good_number_to_run" - numero minimo de PMTs que se utilizaran para que arranque el algoritmo.
 	
 How to compile:
--Necesitas tener Root Cern intalado junto a sus dependencias
--$ root sim_analysis.C 	
+- Necesitas tener Root Cern intalado junto a sus dependencias
+- $ root sim_analysis.C 	
 
