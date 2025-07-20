@@ -3,7 +3,7 @@ Programa: sim_analysis.C y sim_analysis.h
 Autor: Javier Mas Ruiz
 
 Programas para analizar los datos simulados del detector
-de nuetrones MONDE en su geometría cilíndrica.
+de neutrones MONDE en su geometría cilíndrica.
 
 Dentro existen varias funciones y comentareandolas en el 
 archivo .C se pueden correr los programas de forma individual siempre y cuando tengas sus archivos de entrada correspondientes.
